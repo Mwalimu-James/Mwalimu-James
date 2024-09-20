@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mwalimu-James a full stack developer.
+- 👋 Hi, I’m @Mwalimu-James a full stack webdeveloper.
 
 
 <!---
